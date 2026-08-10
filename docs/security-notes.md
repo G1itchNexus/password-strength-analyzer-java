@@ -20,10 +20,7 @@ When designing a scoring system, the goal is to identify characteristics that ma
 ### Length
 Longer passwords are generally more secure because they increase the number of possible combinations an attacker must try.
 
-### Uppercase Letters
-The use of uppercase letters increases password complexity.
-
-### Lowercase Letters
+### Uppercase and Lowercase Letters
 A mix of lowercase and uppercase letters creates more variation.
 
 ### Numbers

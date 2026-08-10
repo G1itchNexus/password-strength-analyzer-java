@@ -24,14 +24,18 @@ public class AnalysisReport {
         return recommendations;
     }
 
-    public String getDEtectedIssues(){
+    public String getDetectedIssues(){
         return detectedIssues;
     }
 
 
     //toString method to display the results
-    /* @Override
+    @Override
     public String toString() {
-        
-    } */
+        String analysisReport = "";
+
+        //implementation
+
+        return analysisReport;
+    } 
 }
